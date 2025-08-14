@@ -20,7 +20,7 @@ I love building **scalable applications, solving complex problems, and continuou
 - Python (**Basic knowledge & data analysis libraries**) 🐍  
 - JavaScript (**for web development**) 🌐  
 - Fortran (**Scientific Computing**)
--# **C# (.NET Development)**
+- **C# (.NET Development)**
   
 ### ⚙️ **Backend & Database:**  
 - Spring Boot (**Learning**) 🌱
@@ -46,7 +46,7 @@ I love building **scalable applications, solving complex problems, and continuou
 
 ## 📈 Currently Growing In:  
 - **Spring Boot & Microservices**  
--# **C# (.NET Development)**
+- **C# (.NET Development)**
 - **Full Stack C# Development**
 - **Competitive Programming & DSA** (*LeetCode, CodeChef*)  
 
