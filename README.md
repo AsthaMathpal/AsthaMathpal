@@ -1,34 +1,36 @@
 ## 👋 Hi, I'm Astha Mathpal!  
 
 🚀 **Aspiring Java Developer | Software Engineer | Problem Solver**  
-I'm a passionate software developer with a strong foundation in **Java, Data Structures & Algorithms (DSA), and backend development**.  
+I'm a passionate software developer with a strong foundation in **Java, Data Structures & Algorithms (DSA), C#,.net framework and backend development**.  
 I love building **scalable applications, solving complex problems, and continuously expanding my technical expertise**.  
 
 ---
 
 ## 💡 About Me  
-- 💻 Passionate about **Java Development & Backend Engineering**  
-- 🚀 Currently enhancing my **DSA skills & exploring Spring Boot**  
-- 🎯 Goal: To become a **highly skilled Java Developer** and contribute to innovative projects  
+- 💻 Passionate about **Java and C# Development & Backend Engineering**  
+- 🚀 Currently enhancing my **DSA skills & .NET Development**  
+- 🎯 Goal: To become a **highly skilled Software Developer** and contribute to innovative projects  
 - 🤝 Open to **collaborations** on software development and open-source projects  
 
 ---
 
 ## 🛠️ Tech Stack & Skills  
 ### 💻 **Programming Languages:**  
-- Java (**Core Java, OOPs, Multithreading, DSA, JDBC**) ☕  
+- Java (**Core Java,Collections, OOPs, Multithreading, DSA**) ☕  
 - Python (**Basic knowledge & data analysis libraries**) 🐍  
 - JavaScript (**for web development**) 🌐  
-- Fortran (**Scientific Computing**)  
-
+- Fortran (**Scientific Computing**)
+- C#(**.NET Development **)
+  
 ### ⚙️ **Backend & Database:**  
-- Spring Boot (**Learning**) 🌱  
+- Spring Boot (**Learning**) 🌱
+- ASP.NET(**Learning**)
 - JDBC, Hibernate (**ORM**)  
-- DBMS (**SQL, MySQL, PostgreSQL**)  
+- DBMS (**SQL, MySQL,SQL Server,MS SQL, PostgreSQL**)  
 
 ### 🌐 **Web Development:**  
-- HTML & CSS  
-- JavaScript  
+- HTML & CSS , JS ,React.js,Tailwind.css 
+- Node.js,Express.js,Auth Express,Middleware Express  
 
 ### 🖥️ **Tools & Platforms:**  
 - Linux (**Ubuntu, Bash Scripting**) 🐧  
@@ -44,20 +46,21 @@ I love building **scalable applications, solving complex problems, and continuou
 
 ## 📈 Currently Growing In:  
 - **Spring Boot & Microservices**  
-- **System Design & Scalable Architecture**  
+- **.NET Development **
+- **Full Stack C# Development**
 - **Competitive Programming & DSA** (*LeetCode, CodeChef*)  
 
 ### 🎯 **Future Goals:**  
 ✔️ Master **Spring Boot & Backend Development**  
-✔️ Build **scalable web applications** using Java technologies  
+✔️ Build **scalable web applications** using Java and C# technologies  
 ✔️ Improve **DSA & problem-solving** for better efficiency  
-✔️ Contribute to **open-source Java projects**  
-✔️ Explore **Cloud Computing & DevOps tools**  
+✔️ Contribute to **open-source Java and C# projects**  
+✔️ Explore **Cloud Computing & DevOps tools** 
 
 ---
 
 ## 📂 Featured Projects  
-🔹 **[SpreadWealth](your-repo-link)** – Investment recommendation platform using **Flask & Yahoo Finance API**  
+🔹 **[CoffeeHouse](your-repo-link)** – An e-commerce (frontend only) website selling coffess ,with cart and purchasing functionality**  
 🔹 **[Java-Based Management System](your-repo-link)** – A **CRUD-based application** built with **JDBC & MySQL**  
 🔹 **[DSA Challenge](your-repo-link)** – Solved **100+ LeetCode & CodeChef problems**  
 
