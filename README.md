@@ -60,7 +60,7 @@ I love building **scalable applications, solving complex problems, and continuou
 ---
 
 ## 📂 Featured Projects  
-🔹 **[CoffeeHouse](your-repo-link)** – An e-commerce (frontend only) website selling coffess ,with cart and purchasing functionality**  
+🔹 **[CoffeeHouse](https://github.com/AsthaMathpal/CoffeeHouse)** – An e-commerce (frontend only) website selling coffess ,with cart and purchasing functionality**  
 🔹 **[Java-Based Management System](your-repo-link)** – A **CRUD-based application** built with **JDBC & MySQL**  
 🔹 **[DSA Challenge](your-repo-link)** – Solved **100+ LeetCode & CodeChef problems**  
 
