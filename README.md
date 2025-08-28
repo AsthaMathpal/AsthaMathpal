@@ -62,7 +62,7 @@ I love building **scalable applications, solving complex problems, and continuou
 ## 📂 Featured Projects  
 🔹 **[CoffeeHouse](https://github.com/AsthaMathpal/CoffeeHouse)** – An e-commerce (frontend only) website selling coffess ,with cart and purchasing functionality**  
 🔹 **[Java-Based Management System](your-repo-link)** – A **CRUD-based application** built with **JDBC & MySQL**  
-🔹 **[DSA Challenge](your-repo-link)** – Solved **100+ LeetCode & CodeChef problems**  
+🔹 **[DSA Challenge](https://github.com/AsthaMathpal/practice)** – Solved **100+ LeetCode & CodeChef problems**  
 
 (Click on the project titles to view the repositories!)
 
@@ -70,6 +70,8 @@ I love building **scalable applications, solving complex problems, and continuou
 
 ## 📫 Let's Connect!  
 📧 **Email:** asthamathpal@gmail.com  
-🔗 **LinkedIn:** [www.linkedin.com/in/astha-mathpal-576861244e](your-linkedin-url)  
+🔗 **LinkedIn:** [www.linkedin.com/in/astha-mathpal-576861244e](https://www.linkedin.com/in/astha-mathpal-576861244/)  
+🔗 LeetCode: https://leetcode.com/u/rI7bCsshVL/
 
 🚀 *"Code. Learn. Innovate. Repeat!"*  
+
