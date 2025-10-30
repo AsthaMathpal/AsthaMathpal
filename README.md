@@ -60,14 +60,13 @@ I love building **scalable applications, solving complex problems, and continuou
 ---
 
 ## 📂 Featured Projects  
-🔹 **[CoffeeHouse](https://github.com/AsthaMathpal/CoffeeHouse)** – A frontend-based e-commerce website for selling various types of coffees, featuring cart management, product listings, and purchase simulation.  
+🔹 **[CoffeeHouse](https://github.com/AsthaMathpal/CoffeeHouse)** – A frontend-based e-commerce website for selling different types of coffees, featuring a cart system, product listings, and purchase simulation.  
 
-🔹 **[WanderBloom](https://github.com/AsthaMathpal/WanderBloom)** – A full-fledged CRUD application built using **Java, JDBC, and MySQL**, enabling users to add, update, delete, and view records with a connected database.  
+🔹 **[WanderBloom](https://github.com/AsthaMathpal/WanderBloom)** – A responsive, frontend-only tourism website designed to explore destinations, showcase travel spots, and provide a smooth user experience through modern UI design.  
 
-🔹 **[CODSOFT Java Internship](https://github.com/AsthaMathpal/CODSOFT)** – A collection of **console-based Java applications** developed during the CODSOFT Internship, demonstrating OOP concepts, file handling, and real-world problem-solving.  
+🔹 **[CODSOFT Java Internship](https://github.com/AsthaMathpal/CODSOFT)** – A collection of console-based Java projects developed during the CODSOFT Internship, demonstrating OOP concepts, logical problem-solving, and modular programming.  
 
-🔹 **[DSA Challenge](https://github.com/AsthaMathpal/practice)** – A repository containing **100+ solved problems** from LeetCode and CodeChef, covering arrays, recursion, linked lists, trees, sorting, and graph algorithms.
- 
+🔹 **[DSA Challenge](https://github.com/AsthaMathpal/practice)** – A repository of 100+ solved DSA problems from LeetCode and CodeChef, covering arrays, recursion, linked lists, trees, sorting, and graph algorithms.
 
 
 (Click on the project titles to view the repositories!)
