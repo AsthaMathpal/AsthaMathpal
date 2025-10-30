@@ -8,7 +8,7 @@ I love building **scalable applications, solving complex problems, and continuou
 
 ## 💡 About Me  
 - 💻 Passionate about **Java and C# Development & Backend Engineering**  
-- 🚀 Currently enhancing my **DSA skills & .NET Development**  
+- 🚀 Currently enhancing my **DSA skills and Java Development**  
 - 🎯 Goal: To become a **highly skilled Software Developer** and contribute to innovative projects  
 - 🤝 Open to **collaborations** on software development and open-source projects  
 
@@ -25,7 +25,7 @@ I love building **scalable applications, solving complex problems, and continuou
 ### ⚙️ **Backend & Database:**  
 - Spring Boot (**Learning**) 🌱
 - ASP.NET(**Learning**)
-- JDBC, Hibernate (**ORM**)  
+- JDBC, Hibernate (**ORM**)(**Learning**)  
 - DBMS (**SQL, MySQL,SQL Server,MS SQL, PostgreSQL**)  
 
 ### 🌐 **Web Development:**  
@@ -60,9 +60,15 @@ I love building **scalable applications, solving complex problems, and continuou
 ---
 
 ## 📂 Featured Projects  
-🔹 **[CoffeeHouse](https://github.com/AsthaMathpal/CoffeeHouse)** – An e-commerce (frontend only) website selling coffess ,with cart and purchasing functionality**  
-🔹 **[Java-Based Management System](your-repo-link)** – A **CRUD-based application** built with **JDBC & MySQL**  
-🔹 **[DSA Challenge](https://github.com/AsthaMathpal/practice)** – Solved **100+ LeetCode & CodeChef problems**  
+🔹 **[CoffeeHouse](https://github.com/AsthaMathpal/CoffeeHouse)** – A frontend-based e-commerce website for selling various types of coffees, featuring cart management, product listings, and purchase simulation.  
+
+🔹 **[WanderBloom](https://github.com/AsthaMathpal/WanderBloom)** – A full-fledged CRUD application built using **Java, JDBC, and MySQL**, enabling users to add, update, delete, and view records with a connected database.  
+
+🔹 **[CODSOFT Java Internship](https://github.com/AsthaMathpal/CODSOFT)** – A collection of **console-based Java applications** developed during the CODSOFT Internship, demonstrating OOP concepts, file handling, and real-world problem-solving.  
+
+🔹 **[DSA Challenge](https://github.com/AsthaMathpal/practice)** – A repository containing **100+ solved problems** from LeetCode and CodeChef, covering arrays, recursion, linked lists, trees, sorting, and graph algorithms.
+ 
+
 
 (Click on the project titles to view the repositories!)
 
